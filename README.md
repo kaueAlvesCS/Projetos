@@ -23,12 +23,3 @@ Projetos que desenvolvi para explorar novas tecnologias, aprimorar minhas habili
 *   **Objetivo de Aprendizado:** [Ex: "Aprender a física 2D da Unity e criar mecânicas de personagem."].
 
 ---
-
-## Projetos Acadêmicos (Ciência da Computação - FECAP)
-
-Trabalhos desenvolvidos como parte do meu currículo, aplicando conceitos teóricos em desafios práticos. Todo o crédito é dado aos professores e colegas de equipe nos `READMEs` específicos de cada projeto.
-
-### [Axis Defense](./Nome-Projeto-Faculdade/)
-*   **Disciplina:** [Nome da Disciplina]
-*   **Descrição:** [Descrição breve do objetivo do trabalho acadêmico.]
-*   **Minha Contribuição:** [Seja específico. Ex: "Fui responsável por implementar o algoritmo de ordenação para os dados de entrada e desenvolver a interface de usuário no console."]
