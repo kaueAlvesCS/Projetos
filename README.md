@@ -29,5 +29,5 @@ Espaço reservado para projetos autônomos que desenvolvo para explorar novas te
 ### [CoreBank API](https://github.com/kaueAlvesCS/API-CoreBank/tree/main)
 *   **Descrição:** O CoreBank API é um projeto criado para fins puramente práticos e de estudo. A ideia principal é construir uma API do zero em dupla, superando as dificuldades com ecossistema web e praticando a integração real entre código e banco de dados. Projeto de desenvolvimento com meu amigo Nicolas.
 *   **Tecnologias:** Html, Css, Javascript, Node.js, SQL.
-*   **Status:** [🚧 Em Desenvolvimento]
+*   **Status:** 🚧 Em Desenvolvimento
 *   **Objetivo de Aprendizado:** Aplicar conceitos aprendidos na faculdade para um projeto simples de mercado.
