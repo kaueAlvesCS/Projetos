@@ -1,4 +1,4 @@
-# Portfólio de Projetos - Kauê Alves Andrade
+# Meus projetos da faculdade e pessoais
 
 Este repositório serve como um hub central para os trabalhos práticos que desenvolvo, tanto por iniciativa própria quanto no contexto acadêmico da FECAP.
 
@@ -8,10 +8,10 @@ Cada projeto está organizado em sua própria pasta e/ou repositório, contendo 
 
 ## 🎓 Projetos Interdisciplinares (FECAP)
 
-Trabalhos práticos desenvolvidos em grupo durante a graduação em Ciência da Computação (turma 2CCOMP), com foco em simular o desenvolvimento de soluções para o mercado.
+Trabalhos práticos desenvolvidos em grupo durante a graduação em Ciência da Computação, com foco em simular o desenvolvimento de soluções para o mercado e treino de tecnologias.
 
 ### [Plataforma Web para Eventos (Projeto 4)](https://github.com/2026-2-NCC2/Projeto4)
-*   **Descrição:** Desenvolvimento de uma plataforma web voltada para conectar organizadores de eventos e fornecedores. É um projeto interdisciplinar com duração de 5 a 6 meses. O trabalho está estruturado com divisão de responsabilidades, onde atuo em conjunto com o grupo (com o Nicolas focando em HTML e CSS, e o Henrique na estruturação do banco de dados).
+*   **Descrição:** Desenvolvimento de uma plataforma web voltada para conectar organizadores de eventos e fornecedores para a criação de eventos e vendas de tickets. É um projeto interdisciplinar com duração de 5 a 6 meses. O trabalho está estruturado com divisão de responsabilidades, onde atuo em conjunto com o meu grupo para o desenvolvimento e progresso do projeto.
 *   **Tecnologias:** JavaScript, Node.js, React, HTML, CSS e Banco de Dados.
 *   **Status:** 🚧 Em Desenvolvimento.
 
